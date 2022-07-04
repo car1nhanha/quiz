@@ -1,0 +1,298 @@
+[
+  {
+    "titulo": "perguntas gerais",
+    "tempo": "1800",
+    "quantidade": "30",
+    "perguntas": [
+      {
+        "questao": "São vias rurais:",
+        "respostas": [
+          "vias de trânsito rápido",
+          "rodovias e estradas",
+          "vias locais e coletoras",
+          "estradas e vias preferenciais"
+        ],
+        "correta": "rodovias e estradas"
+      },
+      {
+        "questao": "A placa abaixo significa:",
+        "image": "https://www.aprovadetran.com.br/questions/Placas-de-transito-Aprova-Detran-altura-limitada-A-37.png",
+        "respostas": [
+          "altura máxima permitida",
+          "largura mínima permitida",
+          "peso máximo permitido",
+          "altura limitada"
+        ],
+        "correta": "altura limitada"
+      },
+      {
+        "questao": "Quando estacionar o veículo sobre as pistas de rolamento das estradas, o condutor será punido com:",
+        "image": "https://www.aprovadetran.com.br/questions/Placas-de-transito-Aprova-Detran-cruzamento-de-vias-A-6.png",
+        "respostas": [
+          "bifurcação em cruz",
+          "entroncamento",
+          "cruzamento de vias",
+          "interseção de vias"
+        ],
+        "correta": "cruzamento de vias"
+      },
+      {
+        "questao": "Quando estacionar o veículo sobre as pistas de rolamento das estradas, o condutor será punido com:",
+        "image": "",
+        "respostas": [
+          "multa, apenas",
+          "remoção do veiculo e multa",
+          "apreensão da Carteira Nacional de Habilitação e multa",
+          "cassação da Carteira Nacional de Habilitação"
+        ],
+        "correta": "remoção do veiculo e multa"
+      },
+      {
+        "questao": "O julgamento dos recursos interpostos pelos infratores compete:",
+        "image": "",
+        "respostas": ["ao CONTRAN", "ao CETRAN", "ao CONTRANDIFE", "à JARI"],
+        "correta": "à JARI"
+      },
+      {
+        "questao": "Entre as técnicas de direção defensiva estão agrupados cinco elementos básicos:",
+        "image": "",
+        "respostas": [
+          "conhecimento, atenção, previsão, habilidade e ação",
+          "atenção, habilidade, experiência de 2 anos, segurança e prudência",
+          "habilidade, ação, prudência, conhecimentos técnicos e previsão",
+          "atenção, previsão, habilidade, conhecimentos mecânicos e prudência"
+        ],
+        "correta": "conhecimento, atenção, previsão, habilidade e ação"
+      },
+      {
+        "questao": "Tempo de reação é aquele que transcorre entre:",
+        "image": "",
+        "respostas": [
+          "o pisar no freio e a imobilização total do veículo",
+          "o acionar a embreagem e o freio",
+          "a visualização do perigo e o pisar no freio",
+          "a percepção do perigo e a parada"
+        ],
+        "correta": "a visualização do perigo e o pisar no freio"
+      },
+      {
+        "questao": "Afastar os curiosos, desligar o motor do veículo envolvido e orientar para que não fumem no local é uma ação do socorrista no caso de:",
+        "image": "",
+        "respostas": [
+          "atropelamento",
+          "derramamento de combustível",
+          "obstáculo na pista",
+          "cabos de eletricidade caindo no local"
+        ],
+        "correta": "derramamento de combustível"
+      },
+      {
+        "questao": "Para habilitar-se na categoria “D”, o candidato deverá ser:",
+        "image": "",
+        "respostas": [
+          "maior de 18 anos",
+          "penalmente imputável, não importando sua idade",
+          "menor de 21 anos",
+          "maior de 21 anos"
+        ],
+        "correta": "maior de 21 anos"
+      },
+      {
+        "questao": "A velocidade mínima não pode ser inferior a:",
+        "image": "",
+        "respostas": [
+          "40 Km/h",
+          "20 Km/h",
+          "1/3 da velocidade máxima regulamentada para a via",
+          "1⁄2 da velocidade máxima regulamentada para a via"
+        ],
+        "correta": "1⁄2 da velocidade máxima regulamentada para a via"
+      },
+      {
+        "questao": "A placa abaixo significa:",
+        "image": "https://www.aprovadetran.com.br/questions/Placas-de-transito-Aprova-Detran-pedestre-ande-pela-esquerda-R-30.png",
+        "respostas": [
+          "ultrapassar os pedestres pela esquerda",
+          "pedestre, ande pela esquerda",
+          "pedestre, ultrapasse sempre pela esquerda",
+          "atenção, pedestres circulando pela esquerda"
+        ],
+        "correta": "pedestre, ande pela esquerda"
+      },
+      {
+        "questao": "O procedimento correto em um declive acentuado é:",
+        "image": "",
+        "respostas": [
+          "utilizar o 'ponto morto'",
+          "utilizar a mesma marcha que seria necessária no caso de um aclive acentuado",
+          "testar o acelerador e desengrenar o veículo",
+          "desligar o motor do veículo"
+        ],
+        "correta": "utilizar a mesma marcha que seria necessária no caso de um aclive acentuado"
+      },
+      {
+        "questao": "A placa abaixo significa:",
+        "image": "https://www.aprovadetran.com.br/questions/Placas-de-transito-Aprova-Detran-peso-bruto-total-maximo-permitido-R-14.png",
+        "respostas": [
+          "peso bruto total máximo proibido",
+          "peso bruto total mínimo permitido",
+          "peso bruto permitido",
+          "peso bruto total máximo permitido"
+        ],
+        "correta": "peso bruto total máximo permitido"
+      },
+      {
+        "questao": "Parar o veículo sobre a faixa de pedestres na mudança de sinal luminoso é infração de trânsito de natureza:",
+        "image": "",
+        "respostas": ["leve", "média", "grave", "gravíssima"],
+        "correta": "média"
+      },
+      {
+        "questao": "De acordo com o art. 13 do Código de Trânsito Brasileiro, é órgão técnico vinculado ao CONTRAN:",
+        "image": "",
+        "respostas": ["o DETRAN", "as Câmaras Temáticas", "o CETRAN", "a JARI"],
+        "correta": "as Câmaras Temáticas"
+      },
+      {
+        "questao": "São tipos de direção defensiva:",
+        "image": "",
+        "respostas": [
+          "disciplinar e legal",
+          "preventiva e corretiva",
+          "eficiente e utilitária",
+          "segura e insegura"
+        ],
+        "correta": "preventiva e corretiva"
+      },
+      {
+        "questao": "O sistema que mantém a temperatura do motor sempre em condições de funcionamento chama-se:",
+        "image": "",
+        "respostas": ["alimentação", "elétrico", "arrefecimento", "inflamação"],
+        "correta": "arrefecimento"
+      },
+      {
+        "questao": "O órgão responsável pela regulamentação dos padrões da qualidade do ar é o:",
+        "image": "",
+        "respostas": ["CONAMA", "PROCONVE", "DETRAN", "Ministério da Saúde"],
+        "correta": "CONAMA"
+      },
+      {
+        "questao": "Em dias de chuva, com a pista escorregadia, a distância de segurança entre dois veículos deverá ser de:",
+        "image": "",
+        "respostas": ["4 segundos", "2 segundos", "6 segundos", "10 segundos"],
+        "correta": "4 segundos"
+      },
+      {
+        "questao": "O Presidente do CETRAN é nomeado:",
+        "image": "",
+        "respostas": [
+          "pelo Ministro dos Transportes",
+          "pelo Governador do Estado",
+          "pelo Presidente da República",
+          "pela Câmara dos Deputados"
+        ],
+        "correta": "pelo Governador do Estado"
+      },
+      {
+        "questao": "A competência para poder autorizar a circulação de bicicletas no sentido contrário ao fluxo dos veículos automotores é:",
+        "image": "",
+        "respostas": [
+          "do CONTRAN",
+          "do CETRAN",
+          "da autoridade de trânsito com circunscrição sobre a via",
+          "da Polícia Rodoviária"
+        ],
+        "correta": "da autoridade de trânsito com circunscrição sobre a via"
+      },
+      {
+        "questao": "Aos veículos reprovados na inspeção de segurança e na de emissão de gases poluentes e ruídos será aplicada:",
+        "image": "",
+        "respostas": [
+          "multa",
+          "apreensão do veículo",
+          "recolhimento do veículo",
+          "medida administrativa de retenção"
+        ],
+        "correta": "medida administrativa de retenção"
+      },
+      {
+        "questao": "É obrigatório o uso do cinto de segurança para condutor e passageiros em todas as vias do território nacional, salvo em situações regulamentadas:",
+        "image": "",
+        "respostas": [
+          "pelo CONTRAN",
+          "pelo Sistema Nacional de Trânsito",
+          "pelo CETRAN",
+          "nenhuma das alternativas"
+        ],
+        "correta": "pelo CONTRAN"
+      },
+      {
+        "questao": "Se o candidato à habilitação for reprovado no exame de direção veicular, ele só poderá realizar novo exame após:",
+        "image": "",
+        "respostas": [
+          "a qualquer tempo, não é necessário esperar nenhum prazo",
+          "14 dias da divulgação do resultado",
+          "15 dias da divulgação do resultado",
+          "8 dias da divulgação do resultado"
+        ],
+        "correta": "a qualquer tempo, não é necessário esperar nenhum prazo"
+      },
+      {
+        "questao": "Os rótulos de risco com o título MOPP são usados nos veículos destinados ao transporte de:",
+        "image": "",
+        "respostas": [
+          "produtos artesanais",
+          "cargas indivisíveis",
+          "cargas perecíveis",
+          "produtos perigosos"
+        ],
+        "correta": "produtos perigosos"
+      },
+      {
+        "questao": "A sigla SAMU significa:",
+        "image": "",
+        "respostas": [
+          "Serviço de Atendimento Médico Urbano",
+          "Serviço de Auxílio Médico de Urgência",
+          "Serviço de Auxílio Móvel ao Usuário",
+          "Serviço de Atendimento Móvel de Urgência"
+        ],
+        "correta": "Serviço de Atendimento Móvel de Urgência"
+      },
+      {
+        "questao": "O dever de dar prioridade em suas ações à defesa da vida, nela incluída a preservação da saúde e do meio ambiente, incumbe:",
+        "image": "",
+        "respostas": [
+          "ao Sistema Nacional de Trânsito",
+          "ao CONTRAN",
+          "ao DETRAN",
+          "aos órgãos e entidades de trânsito pertencentes ao Sistema Nacional de Trânsito"
+        ],
+        "correta": "aos órgãos e entidades de trânsito pertencentes ao Sistema Nacional de Trânsito"
+      },
+      {
+        "questao": "A placa abaixo significa:",
+        "image": "https://www.aprovadetran.com.br/questions/Placas-de-transito-Aprova-Detran-ponte-estreita-A-22.png",
+        "respostas": [
+          "ponte estreita",
+          "pista estreita",
+          "sentido obrigatório",
+          "passagem de apenas um veículo"
+        ],
+        "correta": "ponte estreita"
+      },
+      {
+        "questao": "O sinal vital que não varia com a idade é:",
+        "image": "",
+        "respostas": ["temperatura", "pulso", "respiração", "pressão arterial"],
+        "correta": "temperatura"
+      },
+      {
+        "questao": "A diasina é um gás expelido pelos motores movidos a:",
+        "image": "",
+        "respostas": ["eletricidade", "gasolina", "álcool", "diesel"],
+        "correta": "diesel"
+      }
+    ]
+  }
+]
